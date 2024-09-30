@@ -134,6 +134,13 @@ apps:
     description: "MySQL is an open source SQL database server."
     category: Database
 
+  - name: postgres
+    displayName: PostgrSQL
+    website: "https://www.mysql.com/"
+    imageUrl: "https://raw.githubusercontent.com/kubefirst/gitops-catalog/main/logos/postgres.svg"
+    description: "Postgres is an open source SQL database server."
+    category: Database
+
   - name: opencost
     displayName: OpenCost
     website: "https://github.com/opencost/opencost"
